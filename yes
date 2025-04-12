@@ -1,0 +1,25 @@
+[33mcommit ec4ab32f2517ef1e55f4ba29a1ff84e9566db6b5[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: filip <filiphoang2009@gmail.com>
+Date:   Fri Apr 11 22:46:06 2025 +0200
+
+    Do nothing
+    
+    Those who know mango
+
+[33mcommit 8ff361c68b168f0c3e80ada881a1da01365afe2e[m
+Author: filip <filiphoang2009@gmail.com>
+Date:   Thu Apr 3 20:29:00 2025 +0200
+
+    Edit README.md and hello_world.txt
+
+[33mcommit f70d821c89223630a4fc9091d23d8d79b60a7ae8[m
+Author: filip <filiphoang2009@gmail.com>
+Date:   Thu Apr 3 20:14:08 2025 +0200
+
+    Add hello_world.txt
+
+[33mcommit 59676f5b8e995926e383c9fb27fa70dbcd62fcf0[m
+Author: act4req <filiphoang2009@gmail.com>
+Date:   Thu Apr 3 20:02:52 2025 +0200
+
+    Initial commit
